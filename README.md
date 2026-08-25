@@ -40,7 +40,6 @@ By analyzing attrition trends, HR can design **targeted retention programs** for
 - **Step 8** : Apply **Conditional Formatting** (Top 10/25% → Red, Bottom 10/25% → Green).  
 - **Step 9** : Add **Charts** (Line Chart, Clustered Column/Bar).
 
-![PivotChart_AgeBand] (https://github.com/user-attachments/assets/e37888d5-5992-42d4-8936-6d0b2b5f7d2f)
 ![PivotChart_AgeBand](./images/PivotChart_AgeBand.png)
 ![PivotChart_Department](./images/PivotChart_Department.png)
 ![PivotChart_JobRole](./images/PivotChart_JobRole.png)
