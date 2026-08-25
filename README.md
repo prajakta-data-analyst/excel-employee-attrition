@@ -77,7 +77,8 @@ Following inferences can be drawn:
 **Story**: Younger employees are most vulnerable; mentorship and career growth programs are essential.
 
 ### Attrition by Age Band
-![Chart_AgeBand_Default](./images/Chart_AgeBand_Default.png)
+![Chart_AgeBand_Default](https://github.com/prajakta-data-analyst/excel-employee-attrition/blob/main/images/Chart_AgeBand_Default.png)
+(./images/Chart_AgeBand_Default.png)
 
 **With Overtime Applied (Slicer = Yes):**
 - Overall attrition rises from **16% → 31%**. 
