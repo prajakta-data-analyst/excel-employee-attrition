@@ -17,9 +17,7 @@ By analyzing attrition trends, HR can design **targeted retention programs** for
 
 ## Project Files
 - [IBM_HR_Employee_Attrition_Raw.xlsx](./excel_files/IBM_HR_Employee_Attrition_Raw.xlsx) → Original dataset before cleaning  
-- [IBM_HR_Employee_Attrition_Cleaned.xlsx](./excel_files/IBM_HR_Employee_Attrition_Cleaned.xlsx)
-- (https://github.com/prajakta-data-analyst/excel-employee-attrition/blob/9aa513154bbe6a7865deb85c798bf28db8bd9ee8/excel_files/IBM_HR_Employee_Attrition_Cleaned.xlsx)
-→ Cleaned dataset with consistent formatting  
+- [IBM_HR_Employee_Attrition_Cleaned.xlsx](./excel_files/IBM_HR_Employee_Attrition_Cleaned.xlsx) → Cleaned dataset with consistent formatting  
 - [IBM_HR_Employee_Attrition_Dashboard.xlsx](./excel_files/IBM_HR_Employee_Attrition_Dashboard.xlsx) → Final file containing PivotTables, Pivot Charts, and Dashboard
 
 ### Steps Followed
