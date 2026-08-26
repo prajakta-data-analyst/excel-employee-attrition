@@ -78,7 +78,7 @@ Following inferences can be drawn:
 
 ### Attrition by Age Band
 ![Chart_AgeBand_Default](https://github.com/prajakta-data-analyst/excel-employee-attrition/blob/main/images/Chart_AgeBand_Default.png?raw=true)
-(./images/Chart_AgeBand_Default.png)
+
 
 **With Overtime Applied (Slicer = Yes):**
 - Overall attrition rises from **16% → 31%**. 
