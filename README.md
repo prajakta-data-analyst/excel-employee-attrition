@@ -1,6 +1,5 @@
 # IBM HR Employee Attrition Dashboard (Excel Project)
 
-```
 ## Overview
 This project analyzes employee attrition using the IBM HR dataset.  
 It demonstrates **Excel data cleaning, Power Query Editor (PQE) transformations, PivotTables, charts, dashboards, and slicers** to uncover HR insights.
