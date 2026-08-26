@@ -1,11 +1,6 @@
 # IBM HR Employee Attrition Dashboard (Excel Project)
 
 ```
-
-
-![PivotTable_AgeBand](https://raw.githubusercontent.com/prajakta-data-analyst/excel-employee-attrition/main/images/PivotTable_AgeBand.png)
-![PivotTable_AgeBand](https://raw.githubusercontent.com/prajakta-data-analyst/excel-employee-attrition/main/images/PivotTable_AgeBand.png)
-
 ## Overview
 This project analyzes employee attrition using the IBM HR dataset.  
 It demonstrates **Excel data cleaning, Power Query Editor (PQE) transformations, PivotTables, charts, dashboards, and slicers** to uncover HR insights.
@@ -82,8 +77,7 @@ Following inferences can be drawn:
 **Story**: Younger employees are most vulnerable; mentorship and career growth programs are essential.
 
 ### Attrition by Age Band
-![Chart_AgeBand_Default](https://github.com/prajakta-data-analyst/excel-employee-attrition/blob/main/images/Chart_AgeBand_Default.png?raw=true)
-
+![Chart_AgeBand_Default](./images/Chart_AgeBand_Default.png)
 
 **With Overtime Applied (Slicer = Yes):**
 - Overall attrition rises from **16% → 31%**. 
