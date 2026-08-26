@@ -1,6 +1,8 @@
 # IBM HR Employee Attrition Dashboard (Excel Project)
 
 ```
+![image_alt](https://github.com/prajakta-data-analyst/excel-employee-attrition/blob/main/images/PivotTable_AgeBand.png?raw=true)
+
 ## Overview
 This project analyzes employee attrition using the IBM HR dataset.  
 It demonstrates **Excel data cleaning, Power Query Editor (PQE) transformations, PivotTables, charts, dashboards, and slicers** to uncover HR insights.
